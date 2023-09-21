@@ -7,9 +7,21 @@ img {
   height: 100px;
 }
 
+.content {
+  display: flex;
+  gap: 52px;
+  margin-top: 32px;
+}
+
+.individual {
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  border: 1px dashed #f00;
+  text-align: center;
 }
 
 /* do not edit this footer */
